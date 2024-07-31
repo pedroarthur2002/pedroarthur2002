@@ -1,4 +1,4 @@
 # Hi, my name is Pedro Arthur 👋
-👩🏻‍💻 Computer Engineering at UEFS
+ - 👩🏻‍💻 Computer Engineering at UEFS
 ![pedroarthur2002's Stats](https://github-readme-stats.vercel.app/api?username=pedroarthur2002&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
