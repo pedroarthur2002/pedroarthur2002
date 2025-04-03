@@ -2,8 +2,12 @@
 ## Hi, I'm Pedro Arthur
 * 👩🏻‍💻 Computer Engineering at Universidade Estadual da Bahia
   
-![pedroarthur2002's Stats](https://github-readme-stats.vercel.app/api?username=pedroarthur2002&theme=prussian&show_icons=true&hide_border=false&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarthur2002&theme=prussian&layout=compact&hide_border=false&count_private=true&card_width=495)
+<div align="center">
+  <a href="https://github.com/pedroarthur2002">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedroarthur2002&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarthur2002&layout=compact&langs_count=7&theme=prussian"/>
+</div>
+
 
 
 
